@@ -1,0 +1,1 @@
+﻿import site, os\npts = [p for p in site.getsitepackages() if " Roaming\ in p or \AppData\ in p]\nprint(\pts\, pts)\nif pts:\n print(\listing\, pts[0])\n [print(name) for name in os.listdir(pts[0]) if \agent\ in name.lower()]
