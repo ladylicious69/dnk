@@ -1,11 +1,12 @@
 ---
 name: superpowers
-description: '**WORKFLOW SKILL** — Create content creation workflows for productivity. USE FOR: building TikTok scripts, lesson plans, emails, etc. Optimized for hooks, saves, and structured processes. INVOKES: ask-questions tool for clarification, code generation for assets.'
+
+description: '**WORKFLOW SKILL** — Create content creation wsavesorkflows for productivity. USE FOR: building TikTok scripts, lesson plans, emails, etc. Optimized for hooks, saves, and structured processes. INVOKES: ask-questions tool for clarification, code generation for assets.'
 ---
 
 # Superpowers Skill
 
-This skill helps create structured content creation workflows, such as generating a 5-post TikTok script series teaching grade 8 algebra basics, each under 30 seconds, optimized for hooks and saves.
+
 
 ## Workflow
 
